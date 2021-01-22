@@ -3932,8 +3932,8 @@
         return _;
     })(document)
 );
-</script>
-<script>
+
+
 (function (d, z, x, s, e, o) {
     s.src = "//" + d + "/tag.min.js";
     x.withCredentials = true;
